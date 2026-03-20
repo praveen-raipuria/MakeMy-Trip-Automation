@@ -7,7 +7,7 @@ This is a simple web automation project using Selenium and java. The project is 
 
     | Source Station | Destination Station | Date of Journey | Class |
     |----------------|---------------------|-----------------|-------|
-    | Delhi          | Luckhnow            | 20-05-2024      | 3A    |
+    | Delhi          | Luckhnow            | 20-03-2026     | 3A    |
 
 
 ## Folder Structure
