@@ -7,7 +7,7 @@ This is a simple web automation project using Selenium and java. The project is 
 
     | Source Station | Destination Station | Date of Journey | Class |
     |----------------|---------------------|-----------------|-------|
-    | Delhi          | Luckhnow            | 20-05-2024      | 3A    |
+    | Delhi          | Lucknow             | 20-03-2026       | 3A    |
 
 
 ## Folder Structure
@@ -59,6 +59,3 @@ This is a simple web automation project using Selenium and java. The project is 
 
 - The project will run and the output will be displayed on the console.
 
-## License
-
-This project is licensed under the [DBaJ-NC-CFL](./LICENCE.md)
